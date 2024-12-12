@@ -2,7 +2,7 @@
 
 ---
 
-                                                                          ## Highlight 
+## Highlight 
 Monev (Money Voice Identifier Application) addresses a significant challenge faced by visually impaired individuals, especially in managing cash transactions independently. In Indonesia, where visual impairment affects 64% of the disabled population, there is a clear need for accessible solutions that empower those who are totally blind. Monev uses advanced Machine Learning and computer vision technology to allow users to scan banknotes with their phone’s camera. The app then uses text-to-speech (TTS) to audibly announce the currency denomination, helping users avoid transaction errors, reducing the risk of fraud, and fostering a safer, more independent financial experience.
 
 The project aims to explore two key questions: How accurately can visual recognition technology identify physical currency under different conditions, and how much can this application improve the financial independence of visually impaired users? By refining the app to ensure it is accurate, reliable, and easy to use, Monev is designed to be accessible to a broad age range, from children to seniors. Ultimately, this application is not just a practical tool but a step toward promoting financial inclusion, enhancing the lives of visually impaired individuals, and creating a sustainable, positive impact on society.
