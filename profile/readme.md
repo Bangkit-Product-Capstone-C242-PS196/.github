@@ -20,3 +20,22 @@ The project aims to explore two key questions: How accurately can visual recogni
 | Raihan Muhammad Rizki Rahman  | C283B4KY3653 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanmuhammadrr/) | Cloud Computing    |
 | Adika Akbar Kurniawan         | A283B4KY0094 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/adika-akbar-kurniawan/) | Mobile Development |
 | Ahmad Aziz Fauzi              | A283B4KY0198 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadazizfauzi/) | Mobile Development |
+
+## ⚙️ Technologies Used ⚙️
+
+### Machine Learning
+[![Tensorflow](https://img.icons8.com/?size=48&id=n3QRpDA7KZ7P&format=png&color=000000)](https://www.tensorflow.org) [](https://www.tensorflow.org)
+[![Google Colab](https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png&color=000000)](https://colab.google) [](https://colab.google)
+[![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)](https://www.python.org) [](https://www.python.org/)
+[![Kaggle](https://img.icons8.com/?size=48&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/) [](https://www.kaggle.com/)
+
+### Cloud Computing
+[![Compute Engine](https://img.icons8.com/?size=48&id=20776&format=png&color=000000)](https://cloud.google.com/products/compute?hl=en) [](https://cloud.google.com/products/compute?hl=en)
+[![Cloud Storage](https://img.icons8.com/?size=48&id=gHeHRo1PD7ep&format=png&color=000000)
+](https://cloud.google.com/storage?hl=en) [](https://cloud.google.com/storage?hl=en)
+[![Firestore](https://img.icons8.com/?size=48&id=SQEEoDcpUD6c&format=png&color=000000)](https://firebase.google.com/docs/firestore) [](https://firebase.google.com/docs/firestore)
+
+### Mobile Development
+[![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v1.png)](https://developer.android.com/studio) [](https://developer.android.com/studio)
+[![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/docs/home.html) [](https://kotlinlang.org/docs/home.html)
+[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com) [](https://github.com)
