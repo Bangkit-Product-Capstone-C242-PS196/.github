@@ -39,3 +39,10 @@ The project aims to explore two key questions: How accurately can visual recogni
 [![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v1.png)](https://developer.android.com/studio) [](https://developer.android.com/studio)
 [![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/docs/home.html) [](https://kotlinlang.org/docs/home.html)
 [![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com) [](https://github.com)
+
+
+## Visit us
+![dadfafadf](https://github.com/user-attachments/assets/b6742bfd-33c6-4124-ac36-86b742a83b40)
+
+[Official Website Monev](https://monev-id.vercel.app)
+
